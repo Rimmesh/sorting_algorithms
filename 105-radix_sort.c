@@ -47,7 +47,7 @@ array[i] = buff[i];
  *              order using radix sort algorithm
  * @array: array of integers
  * @size: size of the array
- * Description: Implements LSD radix sort algorithm 
+ * Description: Implements LSD radix sort algorithm
  * prints array after each significant digit increase
  */
 void radix_sort(int *array, size_t size)
